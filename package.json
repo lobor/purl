@@ -8,6 +8,7 @@
     "url": "git://github.com/lobor/purl.git"
   },
   "author": {
+    "name": "Lobor",
     "email": "lobor@gmail.com",
   },
 }
