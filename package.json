@@ -1,0 +1,10 @@
+{
+  "name": "purl",
+  "description": "A minimal AMD API implementation for use in optimized browser builds.",
+  "version": "0.3.1",
+  "homepage": "http://github.com/allmarkedup/purl",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lobor/purl.git"
+  }
+}
