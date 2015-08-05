@@ -6,5 +6,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/lobor/purl.git"
-  }
+  },
+  "author": {
+    "email": "lobor@gmail.com",
+  },
 }
